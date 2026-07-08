@@ -47,10 +47,6 @@ Presentation.pptx
 - Resource Allocation
 - GUI Development using Qt
 
-## 📷 Screenshots
-
-Screenshots can be added inside the `screenshots/` folder.
-
 ## 👨‍💻 Author
 
 Muhammad Haseeb Sajid
